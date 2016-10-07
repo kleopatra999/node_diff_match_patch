@@ -7,5 +7,5 @@
     "repository":{"type": "git", "url": "http://github.com/lfborjas/node_diff_match_patch.git"},
     "directories": {"lib": "./lib"},
     "main": "./lib/diff_match_patch",
-    "licenses": [{"type": "Apache", "url": "http://www.apache.org/licenses/LICENSE-2.0"}]
+    "license": "Apache-2.0"
 }
